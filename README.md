@@ -1,4 +1,4 @@
-**SHEild: Your Digital Guardian 👸🛡️**
+**SHEild: Your Digital Guardian🛡️**
 
 SHEild is a proactive safety platform designed to empower women with immediate access to help. It transforms your smartphone into a powerful security companion, ensuring your trusted circle is always connected to you in critical moments.
 
