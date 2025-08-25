@@ -22,30 +22,30 @@ SHEild is a proactive safety platform designed to empower women with immediate a
 
 **🛠️ Built With Modern Technology**
 
-🎨 Frontend: React.js, Tailwind CSS, Shadcn UI
+ Frontend: React.js, Tailwind CSS, Shadcn UI
 
-⚙️ Backend: Node.js, Express.js
+ Backend: Node.js, Express.js
 
-🗄️ Database & Auth: Firebase Firestore & Authentication
+ Database & Auth: Firebase Firestore & Authentication
 
-🔁 Real-Time Comms: Socket.IO
+ Real-Time Comms: Socket.IO
 
-🧠 AI Integration: Gemini API
+ AI Integration: Gemini API
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **🔄 How It Protects You**
 
-📋 Setup: You log in and designate your inner circle of emergency contacts. 👥
+📋 Setup: You log in and designate your inner circle of emergency contacts. 
 
-🌍 Daily Use: Share trips or your live location to keep loved ones informed. 🗺️
+🌍 Daily Use: Share trips or your live location to keep loved ones informed. 
 
-👁️ Silent Monitoring: Guardian AI discreetly operates in the background. 🤫
+👁️ Silent Monitoring: Guardian AI discreetly operates in the background. 
 
-⚡ The Moment It Matters: Upon an SOS trigger:
+⚡ The Moment It Matters: Upon an SOS trigger.
 
-Contacts are immediately alerted with your live location. 📍📢
+📢 Contacts are immediately alerted with your live location.
 
-They can tap into a live video stream to see your environment. 📹
+📹They can tap into a live video stream to see your environment. 
 
 
