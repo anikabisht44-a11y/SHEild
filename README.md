@@ -1,6 +1,7 @@
 **SHEild: Your Digital Guardian 👸🛡️**
 
 SHEild is a proactive safety platform designed to empower women with immediate access to help. It transforms your smartphone into a powerful security companion, ensuring your trusted circle is always connected to you in critical moments.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **✨ Core Capabilities**
@@ -16,6 +17,7 @@ SHEild is a proactive safety platform designed to empower women with immediate a
 👥 Trusted Circle Management - Easily build and manage your personal safety network of trusted contacts.
 
 ✈️ Journey Log & Share - Proactively inform your safety network of your travel plans by logging and sharing your destination, route, and ETA.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **🛠️ Built With Modern Technology**
@@ -29,6 +31,7 @@ SHEild is a proactive safety platform designed to empower women with immediate a
 🔁 Real-Time Comms: Socket.IO
 
 🧠 AI Integration: Gemini API
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **🔄 How It Protects You**
